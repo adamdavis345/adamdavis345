@@ -10,10 +10,22 @@ Space is bent by being fused onto _control objects_ which then move (this bends 
 Formula:<br/>
 _unbent ctrl objects + bent ctrl objects + unbent target objects = bent target objects_
 
-- 2 states, unbent, bent.
-- 2 lists, controls, targets. (For each object listed in one list there is a correlating object listed in the other list.
+Listes of _objects_, 3 input, 1 output.
+4 lists, 2 versions of 2 lists.
 
-3 lists input = 1 list output.
+Lists:<br/>
+- control
+- target
+
+Versions:<br/>
+- unbent
+- bent 
+
+(For each object listed in one version of a  list there is a corresponding object listed in the other version.)
+
+
+
+
 
 <br/>
 
