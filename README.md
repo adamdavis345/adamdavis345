@@ -8,18 +8,22 @@ Don't bend surfaces (by positioning unruly arrays of points), bend space itself 
 Space is bent by being fused onto _control objects_ which then move (this bends any _target objects_ within the space).
 
 Formula:<br/>
+Lists of _objects_, 3 input, 1 output.<br/>
 _unbent ctrl objects + bent ctrl objects + unbent target objects = bent target objects_
 
-Listes of _objects_, 3 input, 1 output.
-4 lists, 2 versions of 2 lists.
+<br/>
 
-Lists:<br/>
+The 4 lists are 2 versions of 2 lists:
+
+Lists:
 - control
 - target
 
-Versions:<br/>
+Versions:
 - unbent
 - bent 
+
+<br/>
 
 (For each object listed in one version of a  list there is a corresponding object listed in the other version.
 
@@ -33,7 +37,7 @@ Add-ons to the Bend Operation:
 
 <br/>
 
-My next step is finding the right platform to build in, OpenGL? (I have a rudimentary, Visual Basic, proof of concept codded as a plugin for Rhino.)
+My next step is finding the right platform to build in, OpenGL? (I have a rudimentary, Visual Basic, Rhino plugin, proof of concept.)
 
 <!---
 I’m looking to collaborate and help humanity particularly expand the educational and creative potential of computers.
