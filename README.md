@@ -21,15 +21,11 @@ Versions:<br/>
 - unbent
 - bent 
 
-(For each object listed in one version of a  list there is a corresponding object listed in the other version.)
+(For each object listed in one version of a  list there is a corresponding object listed in the other version.
 
-
-
-
+Each control object has a 1 - 100 efficacy variable.
 
 <br/>
-
-(Each control object has a 1 - 100 efficacy variable.
 
 Add-ons to the Bend Operation:
 - Levers: allows you to deform space in one location by relating it to _objects_ in another location.)
@@ -37,7 +33,7 @@ Add-ons to the Bend Operation:
 
 <br/>
 
-My next step is finding the right platform to build in, OpenGL? (I have a rudimentary, visual basic, proof of concept codded as a plugin for Rhino.)
+My next step is finding the right platform to build in, OpenGL? (I have a rudimentary, Visual Basic, proof of concept codded as a plugin for Rhino.)
 
 <!---
 I’m looking to collaborate and help humanity particularly expand the educational and creative potential of computers.
