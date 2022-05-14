@@ -1,3 +1,4 @@
+![3 moving points bending space - 12 seconds](https://user-images.githubusercontent.com/105538470/168451344-701566c8-8851-46c9-8a03-d0e94bb23d08.gif)
 Hi, I’m @adamdavis345
 
 I’m building an alternative to NURBS/Polygon modeling. This solution yields seamless transitions between curved features and requires less from the user (works as polygons too).
