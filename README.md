@@ -3,7 +3,7 @@ Hi, I’m @adamdavis345
 I’m building an alternative to NURBS/Polygon modeling. This solution yields seamless transitions between curved features and requires less from the user (works as polygons too).
 
 Bend Operation:<br/>
-Don't bend surfaces (by positioning unruly arrays of points), bend space itself along with any _objects_ (_point/s, line/s, plane/s,_ and/or _solid/s_) in it. Running a straight _objects_ through a series of Bend Operations yields complex curvature. 
+Don't bend surfaces (by positioning unruly arrays of points), bend space itself along with any _objects_ (_point/s, line/s, plane/s,_ and/or _solid/s_) in it, by moving only the minamum number of points nned to express the form. Running a straight _objects_ through a series of Bend Operations yields complex curvature. 
 
 Space is bent by being fused onto _control objects_ which then move (this bends any _target objects_ within the space).
 
