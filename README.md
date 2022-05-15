@@ -9,13 +9,9 @@ Don't bend surfaces (by positioning unruly arrays of points), bend space itself 
 
 Space is bent by being fused onto _control objects_ which then move (this bends any _target objects_ within the space).
 
-Formula:<br/>
-Lists of _objects_, 3 input, 1 output.<br/>
-_unbent ctrl objects + bent ctrl objects + unbent target objects = bent target objects_
+Formula: ***unbent ctrl objects + bent ctrl objects + unbent target objects = bent target objects***
 
-<br/>
-
-The 4 lists are 2 versions of 2 lists:
+4 lists of _objects_, 2 versions of 2 lists:
 
 Lists:
 - control
@@ -24,6 +20,8 @@ Lists:
 Versions:
 - unbent
 - bent 
+
+Input 3 lists, get 1 list output.
 
 <br/>
 
