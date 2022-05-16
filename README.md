@@ -1,5 +1,7 @@
 Hi, I’m @adamdavis345
 
+PART 1/3
+
 I’m building an alternative to NURBS/Polygon modeling. This solution yields seamless transitions between curved features and requires less from the user (works as polygons too).
 
 ![3 moving points bending space - 12 seconds](https://user-images.githubusercontent.com/105538470/168451344-701566c8-8851-46c9-8a03-d0e94bb23d08.gif)
@@ -37,9 +39,15 @@ Add-ons to the Bend Operation:
 
 <br/>
 
-My next step is finding the right platform to build in, my knowledge of programing is limited, from what i hear, OpenGL? (I have a rudimentary, 100 line, Visual Basic, Rhino plugin, proof of concept.)
+My next step is finding the right platform to build in, OpenGL? (I have a rudimentary, 100 line, Visual Basic, Rhino plugin proof of concept.)
 
 
+PART 2/3 - 3D MODELING WITH HANDLES like in the predomanant drawing software.
+A POSIBLE CUSTIMISATION (CUSTIMIZATION WAS INITIAL AND STILL IS THE PRIPARY OBJECTIVE
+
+
+PART 3/3 - OPERATING SYSTEM
+my limited knowledge of what an operating system is From what I know about operating systems 
 
 
 
