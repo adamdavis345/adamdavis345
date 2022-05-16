@@ -37,7 +37,12 @@ Add-ons to the Bend Operation:
 
 <br/>
 
-My next step is finding the right platform to build in, OpenGL? (I have a rudimentary, Visual Basic, Rhino plugin, proof of concept.)
+My next step is finding the right platform to build in, my knowledge of programing is limited, from what i hear, OpenGL? (I have a rudimentary, 100 line, Visual Basic, Rhino plugin, proof of concept.)
+
+
+
+
+
 
 <!---
 I’m looking to collaborate and help humanity particularly expand the educational and creative potential of computers.
