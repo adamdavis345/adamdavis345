@@ -1,5 +1,3 @@
-Hi, I’m @adamdavis345
-
 PART 1/3
 
 I’m building an alternative to NURBS/Polygon modeling. This solution yields seamless transitions between curved features and requires less from the user (works as polygons too).
